@@ -1,0 +1,1 @@
+Setting up a network-wide ad blocker called Pi-hole. Pi-hole works by acting as your DNS server and blocking domain names that are often affiliated with advertising.
